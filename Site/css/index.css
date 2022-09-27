@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+.nav-item {
+    font-weight: 600;
+}
