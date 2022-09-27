@@ -1,6 +1,10 @@
 Для кращої роботи індекс.хтмл бажано скачати Live Server.
+
 Для роботи чата: 
 1) Nuxt
 2) Vue.js
 3) Vuetify
 4) Socket.io
+
+Для запуску чата: 
+npm run dev
